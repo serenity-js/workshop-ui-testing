@@ -16,7 +16,10 @@ To use this project you'll need:
 npm install   - Installs the dependencies
 npm test      - Runs the tests and creates a test execution report
                 (it will also download WebDriver and the Serenity BDD CLI jar for you)
-npm run clean - cleans the target/ directory, where the reports are generated                     
+
+npm run clean - cleans the target/ directory, where the reports are generated         
+
+npm run scenario "scenario name" - Runs a single, non-@wip scenario            
 ```
 
 ## Your feedback matters!

@@ -9,7 +9,8 @@
     "protractor": "protractor ./protractor.conf.js",
     "pretest": "serenity update",
     "report": "serenity run",
-    "test": "failsafe clean protractor report"
+    "test": "failsafe clean protractor report",
+    "scenario": "npm run protractor -- --cucumberOpts.name"
   },
   "repository": {
     "type": "git",
