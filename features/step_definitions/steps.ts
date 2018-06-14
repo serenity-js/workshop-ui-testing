@@ -1,6 +1,7 @@
 import { protractor, by } from 'protractor';
 import { Actor, BrowseTheWeb, Open, See, Target, Text } from 'serenity-js/lib/screenplay-protractor';
 import { expect } from '../../test/expect';
+import { equals } from '../../test/assertions';
 
 export = function steps() {
 
