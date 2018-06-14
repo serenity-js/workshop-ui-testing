@@ -1,10 +1,6 @@
-# Serenity/JS Cucumber seed
+# Serenity/JS UI Testing Workshop
 
-[![Build Status](https://travis-ci.com/serenity-js/seed-cucumber.svg?branch=master)](https://travis-ci.com/serenity-js/seed-cucumber)
-
-You can use this repository as a starting point for your [Serenity/JS](http://serenity-js.org)
-and [Cucumber](https://github.com/cucumber/cucumber-js) projects.
-[Clone](https://help.github.com/articles/cloning-a-repository/) and enjoy!
+[![Build Status](https://travis-ci.com/serenity-js/workshop-ui-testing.svg?branch=master)](https://travis-ci.com/serenity-js/workshop-ui-testing)
 
 To learn more about Serenity/JS, check out [serenity-js.org](http://serenity-js.org).
 
