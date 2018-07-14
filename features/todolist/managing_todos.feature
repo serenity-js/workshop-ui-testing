@@ -3,8 +3,7 @@ Feature: Managing a todo list
   In order to get organised
   As a developer
   I want to know what is left to do
-  
-  @wip
+
   Scenario: James adds a new item
 
     Given James wants to interact with AngularJS apps

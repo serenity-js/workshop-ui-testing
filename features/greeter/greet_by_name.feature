@@ -4,7 +4,6 @@ Feature: Greeting developers by name
   As a developer
   I'd like to be greeted by my name
 
-  @wip
   Scenario: James wants to be greeted
 
     Given James wants to interact with AngularJS apps
